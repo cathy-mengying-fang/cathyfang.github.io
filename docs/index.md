@@ -3,7 +3,7 @@
 
 Hi there! My name is Cathy Fang. I am a sophomore studying mechanical engineering at [Carnegie Mellon University](www.cmu.edu).
 
-![Profile picture](portfolio/images/profile.jpg)
+![Profile picture](../images/profile.jpg)
 
 ## Projects
 1. 
@@ -12,7 +12,7 @@ Hi there! My name is Cathy Fang. I am a sophomore studying mechanical engineerin
 
 For more projects see [more projects](src).
 
-## [Resume](portfolio/resume/MengyingFang_Resume_101217.pdf)
+## [Resume](../resume/MengyingFang_Resume_101217.pdf)
 
 ## Contact
 
