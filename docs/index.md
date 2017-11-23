@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Cathy Fang
+### product designer | mechanical engineer | creative coder
 
-You can use the [editor on GitHub](https://github.com/cathy-mengying-fang/cathyfang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there! My name is Cathy Fang. I am a sophomore studying mechanical engineering at [Carnegie Mellon University](www.cmu.edu).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Profile picture]
+(src)
 
-### Markdown
+## Projects
+1. 
+2.
+3.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For more projects see [more projects](src).
 
-```markdown
-Syntax highlighted code block
+## [Resume] (src)
 
-# Header 1
-## Header 2
-### Header 3
+## Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cathy-mengying-fang/cathyfang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can [Email](mailto:mengyinf@andrew.cmu.edu) me or find me on [LinkedIn](www.linkedin.com/in/cathy-mengying-f-632547b2).
