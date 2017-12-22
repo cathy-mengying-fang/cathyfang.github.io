@@ -1,0 +1,44 @@
+.nav-link {color:#fff;}
+
+
+.btn-primary {
+    background-color: #667f99;
+    border-color: #667f99;
+}
+
+.btn-primary:hover{
+    background-color: #3b4a59;
+    border-color:#2c3844;
+}
+
+a, .page-link{
+    color:#667f99;
+}
+.page-link, .card{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+body {
+    background: #f5f2f7;
+    line-height: 1.4em;
+    font-size: 16px;
+}
+
+.intro {margin-left: 3em !important;}
+
+.my-4{margin-top: 2em !important;}
+
+.card-text{
+    font-size: 14px;
+}
+.card-img-top{
+    height: ;
+}
+
+.m-0{
+    font-size: 12px;
+}
+
+.img-logo{
+    max-width: 10%;}
